@@ -20,11 +20,11 @@ In PHP heb je verschillende soorten datatypes namelijk:
 * Een **string** kan bestaan uit een combinatie van letters en cijfers.
 
 ## Leerdoelen
->1. [ ] Ik weet wat de verschillende datatypes zijn
->2. [ ] Ik maak een string variabele aan in PHP
->3. [ ] Ik volg de juiste regels voor het maken van een variabele 
->4. [ ] Ik volg de juiste regels voor het maken van een string
->5. [ ] Ik kan de waarde van een stringvariabele op het scherm tonen
+>1. [x] Ik weet wat de verschillende datatypes zijn
+>2. [x] Ik maak een string variabele aan in PHP
+>3. [x] Ik volg de juiste regels voor het maken van een variabele 
+>4. [x] Ik volg de juiste regels voor het maken van een string
+>5. [x] Ik kan de waarde van een stringvariabele op het scherm tonen
 
 ## Opdracht
 
