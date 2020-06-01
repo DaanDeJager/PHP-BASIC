@@ -1,1 +1,25 @@
+Ik moet 2 pagina's maken:
 
+- Home
+- Productpagina
+
+Home index.php:
+
+- Werkend menu die met include is geplaatst
+- Werkende footer die met include is geplaatst
+- Ik moet de datatype kunnen opvragen van de ingevoerde waarde
+
+Product.php:
+
+- Een array met 10 producten + prijzen + decimalen.
+- Bij invoer van artikelnummer * het aantal = totaal prijs van de producten.
+- Leeftijd van klant bepaald de korting.
+- Als de klant < 16 is dan is er 1 euro korting
+- Als de klant 16 is dan is er 0,16 eurocent korting
+- Als de klant 17 is dan is er 0,17 eurocent korting
+- Als de klant 18 is dan is er 0,18 eurocent korting
+- Als de klant 19 is dan is er 0,19 eurocent korting
+
+Moet 2 functies schrijven:
+- korting
+- Totaal prijs
